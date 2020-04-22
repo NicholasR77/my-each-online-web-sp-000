@@ -6,3 +6,7 @@ def my_each(array) # put argument(s) here
     yield (puts array[i])
   end
 end
+
+tas = ['arel', 'jon', 'logan', 'spencer']
+
+my_each(tas) 
