@@ -13,4 +13,4 @@ end
 
 tas = ['arel', 'jon', 'logan', 'spencer']
 
-my_each(tas) {puts array[i]}
+my_each(tas) {|x| puts x}
