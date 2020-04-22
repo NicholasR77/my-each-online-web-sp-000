@@ -13,4 +13,4 @@ end
 
 tas = ['arel', 'jon', 'logan', 'spencer']
 
-my_each(tas) {|i| puts}
+my_each(tas) {|i| puts i}
